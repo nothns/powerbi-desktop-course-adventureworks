@@ -1,4 +1,4 @@
-# 📊 PowerBI Desktop Course: Adventureworks Project
+# 📊 PowerBI Desktop Course: AdventureWorks Project
 Course project from: [Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
 ## 🧰 Skills demonstrated
 - Power Query
